@@ -102,6 +102,9 @@ function App(): React.JSX.Element {
           <Section title="Learn More">
             Read the docs to discover what to do next:
           </Section>
+           <Section title="Learn More">
+           new name is join to the line to restat 
+          </Section>
           <LearnMoreLinks />
         </View>
       </ScrollView>
